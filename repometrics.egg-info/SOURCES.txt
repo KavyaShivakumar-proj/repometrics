@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+repometrics/__init__.py
+repometrics/cli.py
+repometrics/repometrics.py
+repometrics.egg-info/PKG-INFO
+repometrics.egg-info/SOURCES.txt
+repometrics.egg-info/dependency_links.txt
+repometrics.egg-info/entry_points.txt
+repometrics.egg-info/requires.txt
+repometrics.egg-info/top_level.txt

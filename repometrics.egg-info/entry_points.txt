@@ -1,0 +1,2 @@
+[console_scripts]
+repometrics = repometrics.cli:main

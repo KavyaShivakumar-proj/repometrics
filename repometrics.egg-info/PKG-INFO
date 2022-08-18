@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: repometrics
+Version: 0.0.1
+Summary: An CLI Tool for Repo metrics.
+Home-page: https://github.com/liuzheng1990/python_packaging_demo
+Author: Liu Zheng
+Author-email: zheng@example.com
+Project-URL: Bug Tracker, https://github.com/liuzheng1990/python_packaging_demo/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# programming_language_detection
+
+
+## Installations
+1. Python Installations
+  * Python 3.10.6
+  
+2. Download the Zip file (repo_lang_metrics.zip) provided in the mail
+3. Run the command "pip install repo_lang_metrics.zip" where repo_lang_metrics.zip exists
+4. Now We are ready to go 
+           Use command "repometrics ." or "repometrics <filepath>
+
+
